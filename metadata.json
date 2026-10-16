@@ -1,0 +1,8 @@
+{
+  "name": "ScopeCraft — Cinematic AI Freelancer Proposal Studio",
+  "description": "Transform rough client requirements into structured, cinema-grade project proposals with open-weight language models and documentary editorial craft.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
